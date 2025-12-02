@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "BASE Invaders";
+export const description = "A classic space invaders game built with Next.js and shadcn components.";
 export const url = process.env.NEXT_PUBLIC_URL;
